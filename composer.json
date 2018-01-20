@@ -10,10 +10,10 @@
             "name": "Jovani Fernandez Alferez",
             "email": "vojalf@gmail.com"
         },
-	{
-	    "name": "Kenneth Reilly",
-	    "email": "kenneth.reilly@hotmail.com"
-	}
+        {
+            "name": "Kenneth Reilly",
+            "email": "kenneth.reilly@hotmail.com"
+        }
     ],
     "require": {
         "yiisoft/yii2": "*",
